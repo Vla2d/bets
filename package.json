@@ -1,0 +1,21 @@
+{
+  "name": "bets",
+  "version": "1.0.0",
+  "author": "Vladyslav Melnyk",
+  "license": "ISC",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "input": "^1.0.1",
+    "playwright": "^1.31.0",
+    "sharp": "^0.31.3",
+    "telegram": "^2.15.10",
+    "tesseract.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
